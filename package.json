@@ -1,0 +1,11 @@
+{
+  "name": "chickenhippopotamus-synapseai2",
+  "version": "1.0.0",
+  "description": "Base44 scraped project",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo \"Build complete\"",
+    "start": "echo \"Starting server\""
+  },
+  "dependencies": {}
+}
